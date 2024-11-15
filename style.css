@@ -58,7 +58,7 @@ html {
   background: linear-gradient(to bottom, #1a1a1a, #121212);
   padding: 20px;
   transition: margin-left 0.3s ease;
-  margin-left: 320px;
+  margin-left: 80px; 
 }
 .menu.collapsed + .content {
   margin-left: 80px; 
